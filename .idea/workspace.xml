@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd5fb6af-f300-4cc2-a47a-f4382a56fbb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exo/LoopConditionsFunctions/Exercice2A_3_suite_de_fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exo/LoopConditionsFunctions/Exercice2B_4_introduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exo/LoopConditionsFunctions/Exercice2B_5_parchemin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -71,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705309196083</updated>
       <workItem from="1705309197207" duration="18816000" />
-      <workItem from="1705392541768" duration="2919000" />
+      <workItem from="1705392541768" duration="7125000" />
     </task>
     <servers />
   </component>
